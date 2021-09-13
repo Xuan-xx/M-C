@@ -17,7 +17,7 @@
 >
 >Successed or Failed?: Successed
 
-
+---
 
 ### 数据结构
 ```
@@ -35,6 +35,7 @@ class Operate:  # 操作类
         self.w = w
 ```
 
+---
 
 
 ### 算法
@@ -50,3 +51,11 @@ class Operate:  # 操作类
 > - 在M中出现过的，并且该状态与任意一个祖先结点相同，舍弃,不加入open
 > - 在M中出现过，但没有在祖先结点出现过的，修改父结点指向
 7. 回到4
+
+---
+### 结果
+![IMAGE](https://github.com/Xuan-xx/M-C/blob/main/IMG/2021-09-14_01-35.jpg)
+  
+![IMAGE](https://github.com/Xuan-xx/M-C/blob/main/IMG/2021-09-14_01-35_1.jpg)
+   
+![IMAGE](https://github.com/Xuan-xx/M-C/blob/main/IMG/2021-09-14_01-36.jpg)
