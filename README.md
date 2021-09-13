@@ -18,7 +18,7 @@
 >Successed or Failed?: Successed
 
 ---
-
+  
 ### 数据结构
 ```
 class LState:  # 左岸状态类
@@ -36,7 +36,7 @@ class Operate:  # 操作类
 ```
 
 ---
-
+  
 
 ### 算法
 - 代码使用广度优先方式实现
@@ -53,6 +53,7 @@ class Operate:  # 操作类
 7. 回到4
 
 ---
+  
 ### 结果
 ![IMAGE](https://github.com/Xuan-xx/M-C/blob/main/IMG/2021-09-14_01-35.jpg)
   
